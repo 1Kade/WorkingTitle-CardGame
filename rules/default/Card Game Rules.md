@@ -1,5 +1,5 @@
 ##THE GAME
-Sprite Detection is a two player card game that plays like a Retro video game.
+Spritemania is a two player card game that plays like a Retro video game.
 You play through levels accumulating points which are added up at the end to give you your Highscore and if it's the highest you are the winner. PowerUps play a large role in the game, these are your buff/debuff cards which come in three forms Offensive, Defensive and Neutral.
 Last of all the game uses credits (coins) to begin play and also throughout the game and free lives can be attained for reaching certain scores mid level.
 We look forward to you playing this game and giving us feedback on how it plays.
@@ -9,7 +9,7 @@ The game finishes when any one player runs out of Sprite cards & credits to use.
 The winner is decided by the amount of levels won, if this number is the same for both players then their Highscores are used to break the tie.
 
 ##REQUIREMENTS TO PLAY
-One deck of 52 playing cards minus Jokers (40 Number cards, 12 Picture cards)
+Two decks of 52 playing cards (1 per player) minus Jokers (40 Number cards, 12 Picture cards)
 3 Coins or tokens to be used for credits.
 Paper & Pen for score keeping.
 
